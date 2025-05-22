@@ -93,7 +93,7 @@ return (
 }
 
 
-export function drawBadge(
+function drawBadge(
   canvas: HTMLCanvasElement,
   image: HTMLImageElement,
   text: string,
